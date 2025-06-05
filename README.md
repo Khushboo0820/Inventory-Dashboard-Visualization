@@ -182,11 +182,11 @@ This project is open-source and free to use.
 
 ## 🙌 Author
 
-Built with ❤️ by **Mayank**
+Built with ❤️ by **Khushboo**
 
 Connect with me:
 
-* LinkedIn: [Mayank Rambirsingh Sagar](https://www.linkedin.com/in/mayank-sagar-mern/)
+* LinkedIn: [Khushboo Parate]([https://github.com/Khushboo0820/})
 
 ```
 
